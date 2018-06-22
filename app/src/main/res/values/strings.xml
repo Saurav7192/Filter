@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Filter</string>
+    <string name="title_activity_control">ControlActivity</string>
+    
+    <string name="permission_title">Permission</string>
+    <string name="permission_content">You need to give storage permission, to apply filters.</string>
+    <string name="permission_gratnted_content">Storage permission has been granted</string>
+
+    <string name="permission_agree">Yes</string>
+    <string name="permission_agree_settings">Go to Settings</string>
+    <string name="permission_cancel">Cancel</string>
+</resources>
